@@ -24,9 +24,7 @@ The tasks of the group include:
 The Task Force will ...
 
 * Gap Analysis
-* Apps Taxonomy
 * Plugins and Extensions list
-* Debugging Tools
 * Use Case Documents
 * Requirements Documents
 
