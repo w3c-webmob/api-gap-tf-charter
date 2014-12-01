@@ -23,10 +23,16 @@ The tasks of the group include:
 ## Deliverables
 The Task Force will ...
 
+Continous work on (every 3 months?!)
+* API Gap List
+* Plugins and Extensions List
 * Gap Analysis
-* Plugins and Extensions list
+
+Documents for specific APIs?! Rephrase this
 * Use Case Documents
 * Requirements Documents
+
+Add links to existing work where we have done this already!!!
 
 ## Communication
 The current expectation is that most of the work will happen on the Web and Mobile Interest Group public-web-mobile@w3.org list, supported by the usage of Github repositories as needed.
