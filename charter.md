@@ -21,21 +21,21 @@ The tasks of the group include:
 * Create requirements documents for new web APIs
 
 ## Deliverables
-The Task Force will ...
+The Task Force will be tasked with both maintaining a suite of documents which detail the API gap at various stages of the year and working on use cases / requirements documents for 
 
-Continous work on (every 3 months?!)
-* API Gap List
-* Plugins and Extensions List
-* Gap Analysis
+### Continuous Work
+This work will run continuously through the lifetime of the group.
 
-Documents for specific APIs?! Rephrase this
-* Use Case Documents
-* Requirements Documents
+* Standards for Web Applications on Mobile: current state and roadmap (every year: Jan, Apr, Jul, Oct)
+* API Gap List: a document used to compare the APIs and features available across various mobile platforms and analyses how web APIs and functionality compares (every year: Feb, May, Sep)
+* Plugins and Extensions List: a new work item which details influential and popular plugins to browsers and analyses whether these could be constructed using web technologies and the reasons for/against (every year: Mar, Jun, Nov)
+* Gap Analysis: a document detailing the current gap analysis between native apps and web apps on mobile, covering aspects from networking, APIs, UI, device integration, communication and perforamnce.  (every year: Mar, Oct).
 
-Add links to existing work where we have done this already!!!
+### Specific Work
+Every quarter the webmob group will analyse the API Gap List to determine whether there is a native API or piece of functionality which we wish to bring to the web. We will then create a document which analyses the native use cases, and creates requirements based on these. A good example is the Use [Cases and Requirements for Installable Web Apps](http://w3c-webmob.github.io/installable-webapps/) document.
 
 ## Communication
-The current expectation is that most of the work will happen on the Web and Mobile Interest Group public-web-mobile@w3.org list, supported by the usage of Github repositories as needed.
+The group will maintain it's work on Github and discuss important issues through the public Webmob mailing list [public-web-mobile@w3.org](public-web-mobile@w3.org). Every month a dedicated Task Force call will be organised to discuss the deliverable/s for that month, and what needs to be done. Issues dedicated to each deliverable will be added and maintained on the Github repository for each work item. If necessary, the group may hold a workshop to go through and work on specific deliverables which may occur at W3C events. 
 
 ## Patent Disclosures
 See [the Web and Mobile Interest Group charter](http://www.w3.org/2013/07/webmobile-ig-charter.html#patentpolicy).
