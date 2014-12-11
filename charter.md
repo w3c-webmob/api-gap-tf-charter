@@ -26,10 +26,10 @@ The Task Force will be tasked with both maintaining a suite of documents which d
 ### Continuous Work
 This work will run continuously through the lifetime of the group.
 
-* Standards for Web Applications on Mobile: current state and roadmap (every year: Jan, Apr, Jul, Oct)
-* API Gap List: a document used to compare the APIs and features available across various mobile platforms and analyses how web APIs and functionality compares (every year: Feb, May, Sep)
-* Plugins and Extensions List: a new work item which details influential and popular plugins to browsers and analyses whether these could be constructed using web technologies and the reasons for/against (every year: Mar, Jun, Nov)
-* Gap Analysis: a document detailing the current gap analysis between native apps and web apps on mobile, covering aspects from networking, APIs, UI, device integration, communication and perforamnce.  (every year: Mar, Oct).
+* __Standards for Web Applications on Mobile:__ current state and roadmap (every year: Jan, Apr, Jul, Oct)
+* __API Gap List:__ a document used to compare the APIs and features available across various mobile platforms and analyses how web APIs and functionality compares (every year: Feb, May, Sep)
+* __Plugins and Extensions List:__ a new work item which details influential and popular plugins to browsers and analyses whether these could be constructed using web technologies and the reasons for/against (every year: Mar, Jun, Nov)
+* __Gap Analysis:__ a document detailing the current gap analysis between native apps and web apps on mobile, covering aspects from networking, APIs, UI, device integration, communication and perforamnce.  (every year: Mar, Oct).
 
 ### Specific Work
 Every quarter the webmob group will analyse the API Gap List to determine whether there is a native API or piece of functionality which we wish to bring to the web. The group will then create a document which analyses the native use cases, and create requirements based on these. A good example is the Use [Cases and Requirements for Installable Web Apps](http://w3c-webmob.github.io/installable-webapps/) document. 
