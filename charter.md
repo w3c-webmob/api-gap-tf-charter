@@ -32,7 +32,7 @@ This work will run continuously through the lifetime of the group.
 * __Gap Analysis:__ a document detailing the current gap analysis between native apps and web apps on mobile, covering aspects from networking, APIs, UI, device integration, communication and perforamnce.  (every year: Mar, Oct).
 
 ### Specific Work
-Every quarter the webmob group will analyse the API Gap List to determine whether there is a native API or piece of functionality which we wish to bring to the web. The group will then create a document which analyses the native use cases, and create requirements based on these. A good example is the Use [Cases and Requirements for Installable Web Apps](http://w3c-webmob.github.io/installable-webapps/) document. 
+Every quarter the webmob group will analyse the API Gap List to determine whether there is a native API or piece of functionality which we wish to bring to the web. The group will then create a document which analyses the native use cases, and create requirements based on these. A good example is the [Use Cases and Requirements for Installable Web Apps](http://w3c-webmob.github.io/installable-webapps/) document. 
 
 ## Communication
 The group will maintain it's work on Github and discuss important issues through the public Webmob mailing list [public-web-mobile@w3.org](public-web-mobile@w3.org). Every month a dedicated Task Force call will be organised to discuss the deliverable/s for that month, and what needs to be done. Issues dedicated to each deliverable will be added and maintained on the Github repository for each work item. If necessary, the group may hold a workshop to go through and work on specific deliverables which may occur at W3C events. 
