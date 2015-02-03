@@ -1,4 +1,4 @@
-# [DRAFT] API Gap Task Force Charter
+# API Gap Task Force Charter
 
 The API Task Force is part of the W3C Web and Mobile Interest Group.  The Task Force's mission is to continuously review APIs on native mobile platforms and create use cases and requirements to support the creation of these APIs on the web. 
 
